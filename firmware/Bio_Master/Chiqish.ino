@@ -1,0 +1,3 @@
+void chiqish () {
+  val = false;
+}
